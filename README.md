@@ -1,4 +1,4 @@
-# greenhat-template
+## DS template
 A template for any datascience related tasks
 
 framework 6 steps
@@ -12,3 +12,6 @@ src/
 ├── features/
 ├── models/
 ├── evaluation/
+
+---
+## 
